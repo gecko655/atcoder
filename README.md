@@ -1,2 +1,2 @@
 # atcoder
-Repository for [atcoder]("http://atcoder.jp")
+Repository for [atcoder](http://atcoder.jp)
